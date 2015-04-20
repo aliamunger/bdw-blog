@@ -1,85 +1,115 @@
 {
-  "posts": [
-    {
-       "title":  "I Am Not A Writer",
-       "description": "“Good design makes a product understandable — It clarifies the product’s structure. Better still, it can make the product clearly express its function by making use of the user’s intuition. At best, it is self-explanatory.” — Dieter Rams",
-       "url": "https://medium.com/re-write/i-am-not-a-writer-7542c811746c",
-       "guid": "1", 
-       "categories": ["creativity", "design", "process"],  
-       "author": "Alia Munger",  
-       "date": "Jan 18, 2015"
-    },
-    {
-       "title":  "The Spirit of Place",
-       "description": "genius loci",
-       "url": "https://medium.com/re-write/the-spirit-of-a-place-c5c5cf970a2b",
-       "guid": "2", 
-       "categories": ["design", "process"],  
-       "author": "Alia Munger",  
-       "date": "Jan 24, 2015"
-    }
-    {
-       "title":  "The Spirit of Place(continued)",
-       "description": "building technologies that can change out spactial relationships.",
-       "url": "https://medium.com/re-write/spirit-of-place-continued-18be01581ab8",
-       "guid": "3", 
-       "categories": ["design", "process"],  
-       "author": "Alia Munger",  
-       "date": "Jan 31, 2015"
-    }
-    {
-       "title":  "DAWN PATROL",
-       "description": "with one last breath, we inhale the energy of the morning",
-       "url": "https://medium.com/re-write/dawn-patrol-999bd859905f",
-       "guid": "4", 
-       "categories": ["design", "happiness"],  
-       "author": "Alia Munger",  
-       "date": "Feb 7, 2015"
-    }
-    {
-       "title":  "The Color Red",
-       "description": "and some others",
-       "url": "https://medium.com/re-write/the-color-red-9dd1400b0034",
-       "guid": "5", 
-       "categories": ["design", "color", "process"],  
-       "author": "Alia Munger",  
-       "date": "Feb 15, 2015"
-    }
-    {
-       "title":  "Own Your Weirdness",
-       "description": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.",
-       "url": "https://medium.com/re-write/own-your-weirdness-c1bd558f442c",
-       "guid": "6", 
-       "categories": ["design", "process"],  
-       "author": "Alia Munger",  
-       "date": "Feb 21, 2015"
-    }
-    {
-       "title":  "Keeping Up With Google",
-       "description": "and the future of tech ecosystems",
-       "url": "https://medium.com/re-write/keeping-up-with-google-e6d665424f00",
-       "guid": "7", 
-       "categories": ["design", "tech"],  
-       "author": "Alia Munger",  
-       "date": "Feb 28, 2015"
-    }
-    {
-       "title":  "Diving Board",
-       "description": "dive in. do the work. you have nothing to loose",
-       "url": "https://medium.com/re-write/diving-board-95d86c4208c2",
-       "guid": "8", 
-       "categories": ["design", "process"],  
-       "author": "Alia Munger",  
-       "date": "March 7, 2015"
-    }
-    {
-       "title":  "Learning To Break The Rules",
-       "description": "to live a creative life we must lose our fear of being wrong-Joseph Chilton Pearce",
-       "url": "https://medium.com/re-write/learning-to-break-the-rules-8afb0af27dd0",
-       "guid": "9", 
-       "categories": ["creativity", "design", "process"],  
-       "author": "Alia Munger",  
-       "date": "March 21, 2015"
-    },
-  ]
+    "posts": [
+        {
+            "title": "I Am Not A Writer",
+            "description": "“Good design makes a product understandable — It clarifies the product’s structure. Better still, it can make the product clearly express its function by making use of the user’s intuition. At best, it is self-explanatory.” — Dieter Rams",
+            "url": "https://medium.com/re-write/i-am-not-a-writer-7542c811746c",
+            "guid": "1",
+            "categories": [
+                "creativity",
+                "design",
+                "process"
+            ],
+            "author": "Alia Munger",
+            "date": "Jan 18, 2015"
+        },
+        {
+            "title": "The Spirit of Place",
+            "description": "genius loci",
+            "url": "https://medium.com/re-write/the-spirit-of-a-place-c5c5cf970a2b",
+            "guid": "2",
+            "categories": [
+                "design",
+                "process"
+            ],
+            "author": "Alia Munger",
+            "date": "Jan 24, 2015"
+        },
+        {
+            "title": "The Spirit of Place(continued)",
+            "description": "building technologies that can change out spactial relationships.",
+            "url": "https://medium.com/re-write/spirit-of-place-continued-18be01581ab8",
+            "guid": "3",
+            "categories": [
+                "design",
+                "process"
+            ],
+            "author": "Alia Munger",
+            "date": "Jan 31, 2015"
+        },
+        {
+            "title": "DAWN PATROL",
+            "description": "with one last breath, we inhale the energy of the morning",
+            "url": "https://medium.com/re-write/dawn-patrol-999bd859905f",
+            "guid": "4",
+            "categories": [
+                "design",
+                "happiness"
+            ],
+            "author": "Alia Munger",
+            "date": "Feb 7, 2015"
+        },
+        {
+            "title": "The Color Red",
+            "description": "and some others",
+            "url": "https://medium.com/re-write/the-color-red-9dd1400b0034",
+            "guid": "5",
+            "categories": [
+                "design",
+                "color",
+                "process"
+            ],
+            "author": "Alia Munger",
+            "date": "Feb 15, 2015"
+        },
+        {
+            "title": "Own Your Weirdness",
+            "description": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.",
+            "url": "https://medium.com/re-write/own-your-weirdness-c1bd558f442c",
+            "guid": "6",
+            "categories": [
+                "design",
+                "process"
+            ],
+            "author": "Alia Munger",
+            "date": "Feb 21, 2015"
+        },
+        {
+            "title": "Keeping Up With Google",
+            "description": "and the future of tech ecosystems",
+            "url": "https://medium.com/re-write/keeping-up-with-google-e6d665424f00",
+            "guid": "7",
+            "categories": [
+                "design",
+                "tech"
+            ],
+            "author": "Alia Munger",
+            "date": "Feb 28, 2015"
+        },
+        {
+            "title": "Diving Board",
+            "description": "dive in. do the work. you have nothing to loose",
+            "url": "https://medium.com/re-write/diving-board-95d86c4208c2",
+            "guid": "8",
+            "categories": [
+                "design",
+                "process"
+            ],
+            "author": "Alia Munger",
+            "date": "March 7, 2015"
+        },
+        {
+            "title": "Learning To Break The Rules",
+            "description": "to live a creative life we must lose our fear of being wrong-Joseph Chilton Pearce",
+            "url": "https://medium.com/re-write/learning-to-break-the-rules-8afb0af27dd0",
+            "guid": "9",
+            "categories": [
+                "creativity",
+                "design",
+                "process"
+            ],
+            "author": "Alia Munger",
+            "date": "March 21, 2015"
+        }
+    ]
 }
